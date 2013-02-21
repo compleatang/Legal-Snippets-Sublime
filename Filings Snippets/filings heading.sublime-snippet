@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+THIS IS A PLACEHOLDER
+]]></content>
+  <tabTrigger>f.header</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Filings Header</description>
+</snippet>

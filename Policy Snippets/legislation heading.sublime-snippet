@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+THIS IS A PLACEHOLDER
+]]></content>
+  <tabTrigger>l.header</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Legislation Header</description>
+</snippet>
