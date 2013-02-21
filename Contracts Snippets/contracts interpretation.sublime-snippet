@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. This Agreement shall be construed and enforced pursuant to the laws of {{choice_of_law}}. Both Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+]]></content>
+  <tabTrigger>k.interpretation</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Interpretation</description>
+</snippet>

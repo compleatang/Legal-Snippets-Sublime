@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+]]></content>
+  <tabTrigger>k.severance</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Severance</description>
+</snippet>

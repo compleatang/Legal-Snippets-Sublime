@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the {{party1}} - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the {{party2}} - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
+]]></content>
+  <tabTrigger>k.footer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Footer</description>
+</snippet>

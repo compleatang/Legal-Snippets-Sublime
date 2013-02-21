@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+l. Final Provisions
+ll. This Agreement shall be construed and enforced pursuant to the laws of {{choice_of_law}}. Both Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+ll. Both parties certify that this Agreement including the Exhibits and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement.  Both parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+ll. If any provision or clause of this Agreement, or any portion thereof,  is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party.  Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+ll. Any notice to be given to either party shall be sent by registered or certified mail, return receipt requested, or in the absence of such services, by courier, to the other party at its last known address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+ll. Both parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof.  Both parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. Both parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+
+Exhibits and Attachments: 
+    []
+    []
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the {{party1}} - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the {{party2}} - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
+]]></content>
+  <tabTrigger>k.collated-final</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Collated Final Boilerplate</description>
+</snippet>

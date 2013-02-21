@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+This Agreement ("Agreement") is entered into as of {{date}} by and between {{party1_full}} ("{{party1}}"), and {{party2_full}} ("{{party2}}"). The {{party1}} is a {{party1_type}} registered under the laws of {{party1_reg}}, with an address of {{party1_address}}, operating in and therefore subject to the laws of {{party1_reg}}, and represented by {{party1_representative}}. The {{party2_full}} is a {{party2_type}} registered under the laws of {{party2_reg}}, with an address of {{party2_address}}, operating in and therefore subject to the laws of {{party2_reg}}, and represented by {{party2_representative}}.
+
+IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS.
+
+$0
+]]></content>
+  <tabTrigger>k.header</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Header</description>
+</snippet>

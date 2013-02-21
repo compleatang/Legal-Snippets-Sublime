@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party. Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+]]></content>
+  <tabTrigger>k.no-waiver</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts No Waiver</description>
+</snippet>

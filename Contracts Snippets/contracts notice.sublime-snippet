@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. Any notice to be given to either party shall be sent by registered or certified mail, return receipt requested, or in the absence of such services, by courier, to the other party at its last known address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+]]></content>
+  <tabTrigger>k.notice</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Notices</description>
+</snippet>

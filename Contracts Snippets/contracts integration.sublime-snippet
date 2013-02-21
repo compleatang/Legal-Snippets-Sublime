@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. Both parties certify that this Agreement including the Exhibits and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement. Both parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+]]></content>
+  <tabTrigger>k.integration</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Integration</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ll. Both parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof. Both parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. Both parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+]]></content>
+  <tabTrigger>k.can-contract</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Can Contract</description>
+</snippet>
