@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+# Conclusion
+
+We thank you for choosing Watershed Legal Services as your provider here in Somaliland. If there are any follow up questions on this memorandum please contact your Responsible Attorney. Your Responsible Attorney is: Casey Kuhlman, caseykuhlman@watershedlegal.com, 4173097.
+]]></content>
+  <tabTrigger>m.footer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Memo Footer</description>
+</snippet>

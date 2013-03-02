@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+To:   $1
+
+Cc:   $2
+
+From: ${3:Watershed Legal Services}
+
+Date: $4
+
+Re:   $5
+
+# Introduction
+
+Watershed Legal Services ("Watershed") has conducted $0
+
+]]></content>
+  <tabTrigger>m.header</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Memo Header</description>
+</snippet>
