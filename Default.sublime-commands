@@ -1,6 +1,0 @@
-[
-    {
-        "caption": "Build YAML Front Matter",
-        "command": "build_yaml_front_matter"
-    }
-]
