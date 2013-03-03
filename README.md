@@ -1,12 +1,14 @@
 # Introduction
 
-This package is (going to be) a set of snippets and commands to help build legal documents in Sublime. It is opinionated in that I prefer to use [Pandoc](http://johnmacfarlane.net/pandoc/), along with my [Legal Markdown Gem](https://github.com/compleatang/legal-markdown). That said, the snippets should work just fine for any set up you may have. The snippets are currently scoped for markdown files (not multimarkdown). That means they will not work in other syntaxes. If you open a document and want to use the snippets, simply change your syntax for that file to markdown by going to View -> Syntax -> Markdown. If you have MultiMarkdown installed you'll have a submenu under Markdown, select Markdown from there.
+This package is (going to be) a set of snippets to help build legal documents in Sublime. The snippets should work just fine for any Markdown set up you may have, but they are build to utilize the format of my [Legal Markdown Gem](https://github.com/compleatang/legal-markdown). The snippets are currently scoped for markdown files (not multimarkdown), but you can change the scoping if you prefer. That means they will not work in other syntaxes. If you open a document and want to use the snippets, simply change your syntax for that file to markdown by going to View -> Syntax -> Markdown. If you have MultiMarkdown installed you'll have a submenu under Markdown, select Markdown from there.
 
-At this point I've only a sample snippet as I haven't yet had time to do much on this package. I plan to have snippets built into three folders: Contracts Snippets, Filings Snippets, Policy Snippets. 
+At this point I've only a few sample snippets. I plan to have snippets built into four folders: Contracts Snippets, Filings Snippets, Policy Snippets, and Memo Snippets. Again, these are quite opinionated in they were built using our in-house language at [Watershed Legal](http://watershedlegal.com) but you can easily change the text within the snippets to be however you like.
 
 # Using
 
-Very simple. From a markdown file just open the command pallette, type Snippet and whatever you're looking for, then hit enter and voila it should be there. 
+Very simple. From a markdown file just open the command pallette, type Snippet and whatever you're looking for, then hit enter and voila it should be there. Many of the snippets also have tab bindings so you can type `k.header<tab>` and you'll get the contract header snippet.
+
+This Package works best as a complement to the [Legal Markdown Build Package](https://github.com/compleatang/Legal-Markdown-Sublime). That package will scan your document to find the YAML front matter and populate that for you. It will also build the document into a .pdf, .odt, doc(x) for you using the Legal Markdown gem and [Pandoc](http://johnmacfarlane.net/pandoc/).
 
 # Installation
 
@@ -19,7 +21,7 @@ If you are using Will Bond's excellent Sublime Package Control, you can easily i
 You can install the theme and keep up to date by cloning the repo directly into your Packages directory in the Sublime Text 2 application settings area. You can locate your Sublime Text 2 Packages directory by using the menu item Preferences -> Browse Packages. While inside the Packages directory, clone the theme repository using the command below:
 
 ```
-$ git clone https://github.com/compleatang/sublimetext-pastepdf
+$ git clone https://github.com/compleatang/Legal-Snippets-Sublime
 ```
 
 ## Manual Install
@@ -34,16 +36,16 @@ To download and install package manually:
 
 PLEASE! Feel free to add your snippets. This will be helpful to the community of lawyers using Sublime. To contribute do the following.
 
-    1. From your Sublime Packages folder you'll want to clone the repository by typing `git clone git@github.com:compleatang/Legally-Sublime.git`.
+    1. From your Sublime Packages folder you'll want to clone the repository by typing `git clone git@github.com:compleatang/Legal-Snippets-Sublime.git`.
     2. In Github you'll want to fork this repository to your account. Do this by pressing the "Fork" button at the top left of this repository.
-    3. Next type (from the folder where your repository sits) `git remote add myfork git@github.com:[YOUR USERNAME]/Legally-Sublime.git`.
+    3. Next type (from the folder where your repository sits) `git remote add myfork git@github.com:[YOUR USERNAME]/Legal-Snippets-Sublime.git`.
     4. Then you are all set to add any snippets you may want.
 
-Please add your snippets to the appropriate folder. Snippet files are easy to create by simply duplicating the template files and changing what you want (or changing my text to suit your practice). 
+Please add your snippets to the appropriate folder. Snippet files are easy to create by simply duplicating the template files and changing what you want (or changing my text to suit your practice).
 
 When you have added a new file (or updated some default text) then simply commit that code, push to your fork on your Github and then send a pull request. For now I'll probably only pull in snippets that aren't already built. Am open to discussion of the default text, especially where my boilerplate may not suit others. Just drop an Issue in Github Issues for this repository and we can have a chat about it.
 
-# [Source Code](https://github.com/compleatang/Legally-Sublime)
+# [Source Code](https://github.com/compleatang/Legal-Snippets-Sublime)
 
 MIT License - (c) 2012 - Watershed Legal Services, PLLC
 
@@ -51,4 +53,3 @@ MIT License - (c) 2012 - Watershed Legal Services, PLLC
 
 [ ] Build syntax highlighting for legal documents that utilize the Gem syntax
 [ ] Build more snippets
-[ ] Integrate the gem workflow into this Package -- in particular a script that will scrape the document and populate the YAML frontmatter based on the Gem syntax and move the cursor to the top.
