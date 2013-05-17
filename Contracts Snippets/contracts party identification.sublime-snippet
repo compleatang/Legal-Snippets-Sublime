@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{party1}} is [{{party1_indivdual}} an individual with an address of {{party1_address}}] [{{party1_group}} a {{party1_type}} with an address of {{party1_address}}, registered under the laws of {{party1_reg}}, operating in and therefore subject to the laws of {{party1_reg}}, and represented by {{party1_rep}}].
+]]></content>
+  <tabTrigger>k.party</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>Contracts Can Contract</description>
+</snippet>
